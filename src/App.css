@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.taco {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+.taco h1 {
+  text-align: center;
+}
